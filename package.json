@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rranja25/bootstrap-4.0.git"
+  },
+  "author": "RAJIV RANJAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rranja25/bootstrap-4.0/issues"
+  },
+  "homepage": "https://github.com/rranja25/bootstrap-4.0#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
